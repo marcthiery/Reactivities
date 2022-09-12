@@ -1,0 +1,12 @@
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll

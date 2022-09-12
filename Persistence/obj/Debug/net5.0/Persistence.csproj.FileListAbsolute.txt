@@ -1,0 +1,15 @@
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\refint\Persistence.dll
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
