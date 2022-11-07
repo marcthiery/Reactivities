@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\API\\API.csproj": {}
+    "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\API\\API.csproj": {
+    "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\API\\API.csproj",
+        "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\thier\\.nuget\\packages\\",
-        "outputPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\API\\obj\\",
+        "outputPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\thier\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -36,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Application\\Application.csproj"
+              "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -76,29 +74,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Application\\Application.csproj": {
+    "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\thier\\.nuget\\packages\\",
-        "outputPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Application\\obj\\",
+        "outputPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\thier\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -112,11 +108,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj"
               },
-              "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj"
+              "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -146,29 +142,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\thier\\.nuget\\packages\\",
-        "outputPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\thier\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -209,29 +203,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj": {
+    "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\thier\\.nuget\\packages\\",
-        "outputPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\thier\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -245,8 +237,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -276,7 +268,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

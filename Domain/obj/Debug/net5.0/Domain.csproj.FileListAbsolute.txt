@@ -10,3 +10,15 @@ D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain
 D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\refint\Domain.dll
 D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
 D:\aaa_ma_fomation_dev\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
